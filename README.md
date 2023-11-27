@@ -3,7 +3,7 @@
 Clonar o repositório
 
 ```bash
-  git clone [https://github.com/](https://github.com/Leokrindges/API_lista_de_recados)
+  git clone [https://github.com/ThiagoFranca4180/Atividade-final-back-end-1)
 ```
 
 Instalar as depêndencias do projeto
